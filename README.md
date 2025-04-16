@@ -39,7 +39,7 @@ NICKET adalah platform pendaftaran event yang memungkinkan pengguna untuk meliha
 
 1. **Clone repositori**
    ```bash
-   git clone https://github.com/username/nicket.git
+   git clone https://github.com/ntesseract/nicket.git
    cd nicket
    ```
 
